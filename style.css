@@ -95,8 +95,12 @@ header div p span:hover {
 }
 
 .matter {
+    display: flex;
+    align-items:center;
+    justify-content: center;
     width: 50%;
     height: 20rem;
+    
 }
 
 .About {
